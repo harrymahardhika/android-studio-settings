@@ -4,7 +4,11 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="userId" value="-d3b008:1660ed8a39a:-8000" />
     <option name="allowDataCollection" value="true" />
   </component>
